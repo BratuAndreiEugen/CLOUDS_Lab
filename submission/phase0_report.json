@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": false
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "Andrei-Eugen.Bratu@eurecom.fr",
+    "project": "cloudslab",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.8.2, build 7fc2dff",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/BratuAndreiEugen/CLOUDS_Lab.git",
+    "is_github": true,
+    "slug": "BratuAndreiEugen/CLOUDS_Lab"
+  }
+}
