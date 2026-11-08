@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 529.045,
+    "vectorized_ms": 1.781,
+    "speedup": 297.05
+  },
+  "threads": {
+    "1": 2601.283,
+    "2": 2291.494,
+    "4": 2545.235,
+    "8": 2963.615
+  },
+  "devices": {
+    "cpu_ms": 486291.9,
+    "gpu_ms": 17651.6
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.5188,
+    "param_count": 4935680
+  },
+  "sample": "\nbeased; you load to but curphilise, posonion it\nwith me borning? you churst alk with a man?\n\nCAMILLA:\nThere sir it clush, as my numbly leasy'?\n\nCLAUDIO:\n'Tis villation die day,--\n\nSAMPSON:\n'Tis fellow",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/cloudslab-eurecomgpt/model.safetensors"
+  }
+}
